@@ -1,6 +1,6 @@
 # Day 1 — VM Setup, Domain Controller Promotion & Domain Join
 
-**Date:** 2026-03-26
+**Date:** 2026-03-20
 
 ## What I Did
 
